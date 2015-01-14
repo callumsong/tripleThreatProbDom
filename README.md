@@ -10,4 +10,4 @@ If the defender is slower than the attacker then it is good to dribble past the 
 
 My illustrated problem domain is below:
 
-![](https://www.dropbox.com/s/7l408dl4spf11m2/Triple-Threat.JPG?dl=0)
+![](https://github.com/callumsong/tripleThreatProbDom/blob/master/Triple-Threat.JPG)
